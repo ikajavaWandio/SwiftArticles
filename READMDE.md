@@ -1,5 +1,5 @@
-1. Ilya Puchka
+1.  Ilya Puchka
     https://ilya.puchka.me
     
-2.QuickBird Studios
+2.  QuickBird Studios
     https://quickbirdstudios.com/blog/
