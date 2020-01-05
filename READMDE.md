@@ -8,3 +8,6 @@ Unit testing
 
 3.  Vadim Bulavin
     https://www.vadimbulavin.com/unit-testing-view-controller-uiviewcontroller-and-uiview-in-swift
+    
+4.  Exyte - (Swift UI, Animations)
+https://exyte.com/blog
