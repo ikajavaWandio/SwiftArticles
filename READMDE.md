@@ -11,3 +11,6 @@ Unit testing
     
 4.  Exyte - (Swift UI, Animations)
 https://exyte.com/blog
+
+5. Igor Kulman
+https://blog.kulman.sk
