@@ -20,3 +20,6 @@ https://heckj.github.io/swiftui-notes/
 
 7. Swift UI lab
 https://swiftui-lab.com
+
+8. Swift Formatters
+https://nshipster.com/formatter/
